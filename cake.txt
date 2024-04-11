@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cake Types - Your Cake Shop</title>
+</head>
+<body style="background-color: pink;">
+    <header>
+        <h1><center><big>Sweet Wave</big></center></h1>
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Search...">
+            <button onclick="search()">Search</button>
+        </div>
+    </header>
+    <nav><center>
+            <button><a href="index.html">Home</a> </button>
+             <button><a href="cakes.html">Cakes</a></button>
+             <button><a href="shakes.html">Shakes</a></button>
+             <button><a href="Goodies.html">Goodies</a></button>
+             <button><a href="Dessert.html">Dessert</a></button>
+             <button><a href="About us.html">About Us</a></button>
+    </center></nav>
+
+    <main>
+       
+        <div>
+            <p> <span id="imageName">Black forest</span></p>
+            <img src="Black.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs720.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Red Velvet</span></p>
+            <img src="Red velvet.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs750.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">White forest </span></p>
+            <img src="White forest.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs700.00</span>
+        </div>
+        <div>
+            <p> <span id="imageName">dream cake </span></p>
+            <img src="dream.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs1250.00</span>
+        </div>
+    </main>
+</body>
+</html>
+
+

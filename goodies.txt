@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cake Types - Your Cake Shop</title>
+</head>
+<body style="background-color: pink;">
+
+    <header>
+        <h1><center><big>Sweet Wave</big></center></h1>
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Search...">
+            <button onclick="search()">Search</button>
+        </div>
+    </header>
+    <nav><center>
+             <button><a href="index.html">Home</a></button>
+             <button><a href="cakes.html">Cakes</a></button>
+             <button><a href="shakes.html">Shakes</a></button>
+             <button><a href="Goodies.html">Goodies</a></button>
+             <button><a href="Dessert.html">Dessert</a></button>
+             <button><a href="About us.html">About Us</a></button>
+    </center></nav>
+
+    <main>
+        <div>
+            <p> <span id="imageName">Donut</span></p>
+            <img src="donut.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs250.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Macaroons</span></p>
+            <img src="macroons.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs60.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Bread</span></p>
+            <img src="bread.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs50.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Rusk</span></p>
+            <img src="rusk.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs45.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Rasagulla</span></p>
+            <img src="rasagulla.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs100.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Gulab Jamun</span></p>
+            <img src="gulab jamun.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs100.00</span>
+        </div>
+    </main>
+</body>
+</html>
+

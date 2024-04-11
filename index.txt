@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Cake Shop</title>
+</head>
+<body style="background-color: pink;">
+    <header>
+        <h1><center><big>Sweet Wave</big></center></h1>
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Search...">
+            <button onclick="search()">Search</button>
+        </div
+        <nav><center>
+            <button><a href="index.html">Home</a></button>
+            <button><a href="cakes.html">Cakes</a></button>
+            <button><a href="shakes.html">Shakes</a></button>
+            <button><a href="Goodies.html">Goodies</a></button>
+            <button><a href="Dessert.html">Dessert</a></button>
+            <button><a href="About us.html">About Us</a></button>
+         </center>
+        </nav>
+    </header>
+
+    <main>
+        <h2><center>Welcome to Sweet Wave!</center></h2>
+        <center><img class="cake-image" src="birthday.jpg" width="1400" height="600"></center>
+        <p><b><center>YUMMY SWEETS DELIVERED TO YOUR DINING TABLE!!!<b></p>
+        <p><b>TAKE A BITE DO NOTHING!!!<b></center></p>
+            <div class="notification">
+            <br><big>HOTLINES</big></br>
+            Celebration cakes, Desserts, Goodies & everything Delightfully sweet now!!
+        </div>
+        <p><big> WHAT CURRENTLY BAKING IN SWEET WAVE??</big></p>
+        <img class="cake-image" src="exp.jpg" width="500" height="500">
+
+
+        <p><b><big>Explore our delicious stuff and find the perfect treat for any occasion.</big></b></p>
+    </main>
+
+</body>
+</html>

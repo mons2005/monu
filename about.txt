@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cake Types - Your Cake Shop</title>
+</head>
+<body style="background-color: pink;">
+
+    <nav><center>
+             <button><a href="index.html">Home</a></button>
+             <button><a href="cakes.html">Cakes</a></button>
+             <button><a href="shakes.html">Shakes</a></button>
+             <button><a href="Goodies.html">Goodies</a></button>
+             <button><a href="Dessert.html">Dessert</a></button>
+             <button><a href="About us.html">About Us</a></button>
+    </center></nav>
+<p> Welcome to our SWEET WAVE !! We are passionate about providing high quality desserts.
+   Today, SWEET WAVE’s Bakery specializes in a variety of sinfully delicious cakes, desserts, breads and shakes which have earned us the moniker “Dessert Queen”.</p>
+<p>SWEET WAVE’s Bakery is best known for its custom designed cakes for birthdays, weddings and parties. Getting creative with themes, colours, shapes and sizes, a bespoke unique work of art is made to cater to the whims and fancies of every customer.Sweet wave’s Bakery has a cake to make everyone’s celebration uniquely special.We believe desserts are a perfect gateway to happy moments. The Sweet Wave’s Bakery team strives to provide the best of culinary treats ranging from desserts, ice creams to shakes and savouries ensuring there is something delicious for everyone. We can’t wait to light up your celebrations with our creations.</p> 
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <br>ph:+919500780105</br>
+        <br> mail id: sweetwave2024@gmai.com</br>
+    </section>
+    <section id="connect">
+        <h2>connect with us</h2>
+        <br>instagram</br>
+        <br>facebook</br>
+        <br>twitter</br>
+    </section>
+    <section id="transaction">
+        <h2>secure transcation</h2>
+        <br>patym</br>
+        <br>visa</br>
+    </section>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cake Types - Your Cake Shop</title>
+</head>
+<body style="background-color: pink;">
+
+    <header>
+        <h1><center><big>Sweet Wave</big></center></h1>
+        <div class="search-container">
+            <input type="text" id="search" placeholder="Search...">
+            <button onclick="search()">Search</button>
+        </div>
+    </header>
+    <nav><center>
+             <button><a href="index.html">Home</a></button>
+             <button><a href="cakes.html">Cakes</a></button>
+             <button><a href="shakes.html">Shakes</a></button>
+             <button><a href="Goodies.html">Goodies</a></button>
+             <button><a href="Dessert.html">Dessert</a></button>
+             <button><a href="About us.html">About Us</a></button>
+    </center></nav>
+
+    <main>
+        <div>
+            <p> <span id="imageName">Chocolate</span></p>
+            <img src="chocolate.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs150.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Vennila</span></p>
+            <img src="vennila.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs140.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Blackcurrant</span></p>
+            <img src="black current.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs160.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Kulfi</span></p>
+            <img src="kulfi.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs45.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Butterscotch</span></p>
+            <img src="butter scotch.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs120.00</span>
+        </div>
+
+        <div>
+            <p> <span id="imageName">Strawberry</span></p>
+            <img src="strawberry.jpg" alt="Image" class="amount-img">
+            <span class="amount">Rs110.00</span>
+        </div>
+    </main>
+</body>
+</html>
+
+
+
